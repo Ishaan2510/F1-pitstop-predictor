@@ -2,6 +2,9 @@
 
 Predict F1 pit stop success with 80.6% accuracy using LightGBM + SHAP explanations.
 
+## Deployed App
+https://f1-pitstop-predictor-ig.streamlit.app/
+
 ## 🎯 Features
 - **Interactive predictions** with real-time ML
 - **SHAP explanations** showing feature contributions  
